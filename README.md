@@ -2,6 +2,7 @@
 ## 2.建立本地仓库
 
   1.进入到要提交的代码文件根目录，右键，选择Git Bash Here
+  <img align="center" width=473 src="pics/pic1.png" />
   
   2.输入：git init //创建仓库
   
