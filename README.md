@@ -4,9 +4,7 @@
   
   <img align="center" width=473 src="pics/pic1.png" />
   2.输入：git init //创建仓库
-  
   3.输入：git add . //在仓库中加入当前目录所有文件
-  
   4.输入：git status //查看当前git状态
 
 ## 3.上传到远程仓库
