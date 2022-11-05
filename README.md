@@ -1,3 +1,2 @@
-## 安装git
+## 安装[git](https://git-scm.com/downloads/)
 
-1.先按装[github桌面]()应用
