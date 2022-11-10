@@ -42,8 +42,7 @@
     输入：git add file.cpp（更新了的文件）
     输入：git commit -m "一些信息"
     输入：git push -u origin master
-  9.git push更新仓库时，如果本地仓库和远程仓库相差太多，会更新失败，此时，需要先git pull，然后用-f参数强制更新：
-    git pull origin master
+  9.git push更新仓库时，如果本地仓库和远程仓库相差太多，会更新失败，此时，需要用-f参数强制更新：
     git push -fu origin master
     
     
