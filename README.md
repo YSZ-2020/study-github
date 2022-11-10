@@ -33,6 +33,7 @@
     
   <img align="center" width=480 src="pics/pic5.png" />
   6.输入：git remote add origin git@github.com:YSZ-2020/test.git 添加远程仓库地址
+    注意，origin可以是其它名字，例如myaddr等，它代表的就是远程仓库地址
   
   7.输入：git commit -m "first commit" -a 提交仓库，注意，双引号中的first commit可以是任意内容，如果没有这个内容，github会任何提交内容非法
     输入：git push -u origin master 将仓库内容更新到github上的master分支中
@@ -41,6 +42,8 @@
     输入：git add file.cpp（更新了的文件）
     输入：git commit -m "一些信息"
     输入：git push -u origin master
+  9.git push更新仓库时，如果本地仓库和远程仓库相差太多，会更新失败，此时，需要用-f参数强制更新：
+    git push -fu origin master
     
     
 
