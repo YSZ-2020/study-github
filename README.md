@@ -40,7 +40,7 @@
   8.以后更新了本地什么文件，只需要：
     输入：git add file.cpp（更新了的文件）
     输入：git commit -m "一些信息"
-    输入：git push -u origin maste
+    输入：git push -u origin master
     
     
 
